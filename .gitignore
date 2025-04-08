@@ -1,0 +1,75 @@
+# 依赖目录
+/node_modules
+/.pnp
+.pnp.js
+
+# 构建输出
+/dist
+/build
+/out
+/lib
+
+# 日志文件
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# 环境变量和密钥
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+*.pem
+
+# 缓存目录
+.npm
+.eslintcache
+.cache
+.parcel-cache
+.next
+.nuxt
+.vuepress/dist
+.serverless/
+.fusebox/
+
+# 测试覆盖率报告
+/coverage
+/.nyc_output
+
+# IDE和编辑器
+/.idea
+/.vscode
+*.swp
+*.swo
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# TypeScript特定
+*.tsbuildinfo
+next-env.d.ts
+
+# 临时文件
+/tmp
+/temp
+
+# 运行时数据
+data
+*.sqlite
+*.db
+
+# 二进制文件和媒体
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
