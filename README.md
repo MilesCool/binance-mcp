@@ -79,10 +79,6 @@ To make changes to the project:
 2. Run `pnpm build` to compile the TypeScript code
 3. Test your changes with `pnpm start`
 
-## License
-
-ISC
-
 ## Disclaimer
 
 This tool is provided for educational and informational purposes only. It is not financial advice. 
