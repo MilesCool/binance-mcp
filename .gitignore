@@ -73,3 +73,5 @@ data
 *.flv
 *.mov
 *.wmv
+
+pnpm-lock.yaml
